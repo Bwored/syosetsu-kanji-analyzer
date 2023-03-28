@@ -17,7 +17,7 @@ Run the main.py file and follow the menu options:
 1. Extract Japanese words and kanji from a text file: Enter the name of the text file you want to extract kanji from. The kanji will be saved in a file called just_kanji.txt.
 2. Sort Japanese words and kanji by frequency: Enter the name of the kanji file you want to sort by frequency. The sorted kanji will be saved in a file called sorted_kanji.csv.
 3. Lookup Kanji: This will lookup the meanings and readings of the kanji in the sorted_kanji.csv file using KanjiApi.dev and save them in a file called kanji_with_meanings.csv.
-4. Create an Anki deck from the kanji_with_meanings.csv file. This feature is not yet implemented, but you can use a third-party tool like [CSV to Anki](https://ankiweb.net/shared/info/2084523087) to import the CSV file into Anki and create a deck.
+4. Not implemented yet
 
 ## TODO(s)
 
