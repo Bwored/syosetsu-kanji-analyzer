@@ -1,0 +1,219 @@
+Character,Meaning,On Reading,Kun Reading,JLPT Level
+本,"['book', 'present', 'main', 'origin', 'true', 'real', 'counter for long cylindrical things']",['ホン'],['もと'],4
+書,['write'],['ショ'],"['か.く', '-が.き', '-がき']",4
+学,"['study', 'learning', 'science']",['ガク'],['まな.ぶ'],4
+生,"['life', 'genuine', 'birth']","['セイ', 'ショウ']","['い.きる', 'い.かす', 'い.ける', 'う.まれる', 'うま.れる', 'う.まれ', 'うまれ', 'う.む', 'お.う', 'は.える', 'は.やす', 'き', 'なま', 'なま-', 'な.る', 'な.す', 'む.す', '-う']",4
+読,['read'],"['ドク', 'トク', 'トウ']","['よ.む', '-よ.み']",4
+思,['think'],['シ'],"['おも.う', 'おもえら.く', 'おぼ.す']",3
+知,"['know', 'wisdom']",['チ'],"['し.る', 'し.らせる']",3
+一,"['one', 'one radical (no.1)']","['イチ', 'イツ']","['ひと-', 'ひと.つ']",4
+好,"['fond', 'pleasing', 'like something']",['コウ'],"['この.む', 'す.く', 'よ.い', 'い.い']",3
+識,"['discriminating', 'know', 'write']",['シキ'],"['し.る', 'しる.す']",2
+見,"['see', 'hopes', 'chances', 'idea', 'opinion', 'look at', 'visible']",['ケン'],"['み.る', 'み.える', 'み.せる']",4
+時,"['time', 'hour']",['ジ'],"['とき', '-どき']",4
+間,"['interval', 'space']","['カン', 'ケン']","['あいだ', 'ま', 'あい']",4
+事,"['matter', 'thing', 'fact', 'business', 'reason', 'possibly']","['ジ', 'ズ']","['こと', 'つか.う', 'つか.える']",3
+死,"['death', 'die']",['シ'],"['し.ぬ', 'し.に-']",3
+大,"['large', 'big']","['ダイ', 'タイ']","['おお-', 'おお.きい', '-おお.いに']",4
+通,"['traffic', 'pass through', 'avenue', 'commute', 'counter for letters, notes, documents, etc.']","['ツウ', 'ツ']","['とお.る', 'とお.り', '-とお.り', '-どお.り', 'とお.す', 'とお.し', '-どお.し', 'かよ.う']",3
+心,"['heart', 'mind', 'spirit', 'heart radical (no. 61)']",['シン'],"['こころ', '-ごころ']",3
+様,"['Esq.', 'way', 'manner', 'situation', 'polite suffix']","['ヨウ', 'ショウ']","['さま', 'さん']",2
+図,"['map', 'drawing', 'plan', 'extraordinary', 'audacious']","['ズ', 'ト']","['え', 'はか.る']",3
+館,"['building', 'mansion', 'large building', 'palace']",['カン'],"['やかた', 'たて']",3
+物,"['thing', 'object', 'matter']","['ブツ', 'モツ']","['もの', 'もの-']",3
+言,"['say', 'word']","['ゲン', 'ゴン']","['い.う', 'こと']",4
+人,['person'],"['ジン', 'ニン']","['ひと', '-り', '-と']",4
+匂,"['fragrant', 'stink', 'glow', 'insinuate', '(kokuji)']",[],"['にお.う', 'にお.い', 'にお.わせる']",
+囲,"['surround', 'besiege', 'store', 'paling', 'enclosure', 'encircle', 'preserve', 'keep']",['イ'],"['かこ.む', 'かこ.う', 'かこ.い']",2
+気,"['spirit', 'mind', 'air', 'atmosphere', 'mood']","['キ', 'ケ']",['いき'],4
+分,"['part', 'minute of time', 'segment', 'share', 'degree', ""one's lot"", 'duty', 'understand', 'know', 'rate', '1%', 'chances', 'shaku/100']","['ブン', 'フン', 'ブ']","['わ.ける', 'わ.け', 'わ.かれる', 'わ.かる', 'わ.かつ']",4
+集,"['gather', 'meet', 'congregate', 'swarm', 'flock']",['シュウ'],"['あつ.まる', 'あつ.める', 'つど.う']",3
+古,['old'],['コ'],"['ふる.い', 'ふる-', '-ふる.す']",4
+語,"['word', 'speech', 'language']",['ゴ'],"['かた.る', 'かた.らう']",4
+歴,"['curriculum', 'continuation', 'passage of time']","['レキ', 'レッキ']",[],2
+史,"['history', 'chronicle']",['シ'],[],2
+理,"['logic', 'arrangement', 'reason', 'justice', 'truth']",['リ'],['ことわり'],3
+地,"['ground', 'earth']","['チ', 'ジ']",[],3
+込,"['crowded', 'mixture', 'in bulk', 'included', '(kokuji)']",[],"['-こ.む', 'こ.む', 'こ.み', '-こ.み', 'こ.める']",2
+文,"['sentence', 'literature', 'style', 'art', 'decoration', 'figures', 'plan', 'literary radical (no. 67)']","['ブン', 'モン']","['ふみ', 'あや']",3
+素,"['elementary', 'principle', 'naked', 'uncovered']","['ソ', 'ス']",['もと'],1
+紙,['paper'],['シ'],['かみ'],3
+誌,"['document', 'records']",['シ'],[],2
+日,"['day', 'sun', 'Japan', 'counter for days']","['ニチ', 'ジツ']","['ひ', '-び', '-か']",4
+作,"['make', 'production', 'prepare', 'build']","['サク', 'サ']","['つく.る', 'つく.り', '-づく.り']",3
+埋,"['bury', 'be filled up', 'embedded']",['マイ'],"['う.める', 'う.まる', 'う.もれる', 'うず.める', 'うず.まる', 'い.ける']",2
+神,"['gods', 'mind', 'soul']","['シン', 'ジン']","['かみ', 'かん-', 'こう-']",2
+司,"['director', 'official', 'govt office', 'rule', 'administer']",['シ'],['つかさど.る'],2
+仕,"['attend', 'doing', 'official', 'serve']","['シ', 'ジ']",['つか.える'],3
+度,"['degrees', 'occurrence', 'time', 'counter for occurrences', 'consider', 'attitude']","['ド', 'ト', 'タク']","['たび', '-た.い']",3
+愛,"['love', 'affection', 'favourite']",['アイ'],"['いと.しい', 'かな.しい', 'め.でる', 'お.しむ', 'まな']",2
+字,"['character', 'letter', 'word', 'section of village']",['ジ'],"['あざ', 'あざな', '-な']",3
+誰,"['who', 'someone', 'somebody']",['スイ'],"['だれ', 'たれ', 'た']",
+触,"['contact', 'touch', 'feel', 'hit', 'proclaim', 'announce', 'conflict']",['ショク'],"['ふ.れる', 'さわ.る', 'さわ']",2
+想,"['concept', 'think', 'idea', 'thought']","['ソウ', 'ソ']",['おも.う'],2
+冊,"['tome', 'counter for books', 'volume']","['サツ', 'サク']",['ふみ'],2
+世,"['generation', 'world', 'society', 'public']","['セイ', 'セ', 'ソウ']",['よ'],3
+界,"['world', 'boundary']",['カイ'],[],3
+写,"['copy', 'be photographed', 'describe']","['シャ', 'ジャ']","['うつ.す', 'うつ.る', 'うつ-', 'うつ.し']",3
+真,"['true', 'reality', 'Buddhist sect']",['シン'],"['ま', 'ま-', 'まこと']",3
+酔,"['drunk', 'feel sick', 'poisoned', 'elated', 'spellbound']",['スイ'],"['よ.う', 'よ.い', 'よ']",1
+国,['country'],['コク'],['くに'],4
+違,"['difference', 'differ']",['イ'],"['ちが.う', 'ちが.い', 'ちが.える', '-ちが.える', 'たが.う', 'たが.える']",2
+代,"['substitute', 'change', 'convert', 'replace', 'period', 'age', 'counter for decades of ages, eras, etc.', 'generation', 'charge', 'rate', 'fee']","['ダイ', 'タイ']","['か.わる', 'かわ.る', 'かわ.り', 'か.わり', '-がわ.り', '-が.わり', 'か.える', 'よ', 'しろ']",3
+風,"['wind', 'air', 'style', 'manner']","['フウ', 'フ']","['かぜ', 'かざ-', '-かぜ']",3
+忘,['forget'],['ボウ'],['わす.れる'],2
+教,"['teach', 'faith', 'doctrine']",['キョウ'],"['おし.える', 'おそ.わる']",3
+育,"['bring up', 'grow up', 'raise', 'rear']",['イク'],"['そだ.つ', 'そだ.ち', 'そだ.てる', 'はぐく.む']",2
+化,"['change', 'take the form of', 'influence', 'enchant', 'delude', '-ization']","['カ', 'ケ']","['ば.ける', 'ば.かす', 'ふ.ける', 'け.する']",2
+積,"['volume', 'product (x*y)', 'acreage', 'contents', 'pile up', 'stack', 'load', 'amass']",['セキ'],"['つ.む', '-づ.み', 'つ.もる', 'つ.もり']",2
+内,"['inside', 'within', 'between', 'among', 'house', 'home']","['ナイ', 'ダイ']",['うち'],2
+容,"['contain', 'form', 'looks']",['ヨウ'],['い.れる'],2
+多,"['many', 'frequent', 'much']",['タ'],"['おお.い', 'まさ.に', 'まさ.る']",4
+小,"['little', 'small']",['ショウ'],"['ちい.さい', 'こ-', 'お-', 'さ-']",4
+難,"['difficult', 'impossible', 'trouble', 'accident', 'defect']",['ナン'],"['かた.い', '-がた.い', 'むずか.しい', 'むづか.しい', 'むつか.しい', '-にく.い']",2
+薄,"['dilute', 'thin', 'weak (tea)', 'pampas grass']",['ハク'],"['うす.い', 'うす-', '-うす', 'うす.める', 'うす.まる', 'うす.らぐ', 'うす.ら-', 'うす.れる', 'すすき']",2
+庫,"['warehouse', 'storehouse']","['コ', 'ク']",['くら'],2
+吸,"['suck', 'imbibe', 'inhale', 'sip']",['キュウ'],['す.う'],2
+絶,"['discontinue', 'sever', 'cut off', 'abstain', 'interrupt', 'suppress', 'be beyond', 'without match', 'peerless', 'unparalleled']",['ゼツ'],"['た.える', 'た.やす', 'た.つ']",2
+新,['new'],['シン'],"['あたら.しい', 'あら.た', 'あら-', 'にい-']",4
+何,['what'],['カ'],"['なに', 'なん', 'なに-', 'なん-']",4
+過,"['overdo', 'exceed', 'go beyond', 'error']",['カ'],"['す.ぎる', '-す.ぎる', '-す.ぎ', 'す.ごす', 'あやま.つ', 'あやま.ち', 'よ.ぎる']",2
+不,"['negative', 'non-', 'bad', 'ugly', 'clumsy']","['フ', 'ブ']",[],3
+足,"['leg', 'foot', 'be sufficient', 'counter for pairs of footwear']",['ソク'],"['あし', 'た.りる', 'た.る', 'た.す']",4
+上,"['above', 'up']","['ジョウ', 'ショウ', 'シャン']","['うえ', '-うえ', 'うわ-', 'かみ', 'あ.げる', '-あ.げる', 'あ.がる', '-あ.がる', 'あ.がり', '-あ.がり', 'のぼ.る', 'のぼ.り', 'のぼ.せる', 'のぼ.す', 'たてまつ.る']",4
+方,"['direction', 'person', 'alternative']",['ホウ'],"['かた', '-かた', '-がた']",3
+幸,"['happiness', 'blessing', 'fortune']",['コウ'],"['さいわ.い', 'さち', 'しあわ.せ']",2
+望,"['ambition', 'full moon', 'hope', 'desire', 'aspire to', 'expect']","['ボウ', 'モウ']","['のぞ.む', 'もち']",2
+就,"['concerning', 'settle', 'take position', 'depart', 'study', 'per']","['シュウ', 'ジュ']","['つ.く', 'つ.ける']",1
+職,"['post', 'employment', 'work']","['ショク', 'ソク']",[],2
+願,"['petition', 'request', 'vow', 'wish', 'hope']",['ガン'],"['ねが.う', '-ねがい']",2
+転,"['revolve', 'turn around', 'change']",['テン'],"['ころ.がる', 'ころ.げる', 'ころ.がす', 'ころ.ぶ', 'まろ.ぶ', 'うたた', 'うつ.る', 'くる.めく']",3
+的,"[""bull's eye"", 'mark', 'target', 'object', 'adjective ending']",['テキ'],['まと'],2
+行,"['going', 'journey', 'carry out', 'conduct', 'act', 'line', 'row', 'bank']","['コウ', 'ギョウ', 'アン']","['い.く', 'ゆ.く', '-ゆ.き', '-ゆき', '-い.き', '-いき', 'おこな.う', 'おこ.なう']",4
+須,"['ought', 'by all means', 'necessarily']","['ス', 'シュ']","['すべから.く', 'すべし', 'ひげ', 'まつ', 'もち.いる', 'もと.める']",1
+麗,"['lovely', 'beautiful', 'graceful', 'resplendent']",['レイ'],"['うるわ.しい', 'うら.らか']",1
+乃,"['from', 'possessive particle', 'whereupon', 'accordingly']","['ナイ', 'ダイ', 'ノ', 'アイ']","['の', 'すなわ.ち', 'なんじ']",1
+歳,"['year-end', 'age', 'occasion', 'opportunity']","['サイ', 'セイ']","['とし', 'とせ', 'よわい']",2
+三,['three'],"['サン', 'ゾウ']","['み', 'み.つ', 'みっ.つ']",4
+飯,"['meal', 'boiled rice']",['ハン'],['めし'],3
+活,"['lively', 'resuscitation', 'being helped', 'living']",['カツ'],"['い.きる', 'い.かす', 'い.ける']",2
+妄,"['delusion', 'unnecessarily', 'without authority', 'reckless']","['モウ', 'ボウ']",['みだ.りに'],1
+筆,"['writing brush', 'writing', 'painting brush', 'handwriting']",['ヒツ'],['ふで'],2
+者,"['someone', 'person']",['シャ'],['もの'],3
+踊,"['jump', 'dance', 'leap', 'skip']",['ヨウ'],['おど.る'],2
+顔,"['face', 'expression']",['ガン'],['かお'],3
+得,"['gain', 'get', 'find', 'earn', 'acquire', 'can', 'may', 'able to', 'profit', 'advantage', 'benefit']",['トク'],"['え.る', 'う.る']",2
+自,['oneself'],"['ジ', 'シ']","['みずか.ら', 'おの.ずから', 'おの.ずと']",3
+目,"['eye', 'class', 'look', 'insight', 'experience', 'care', 'favor']","['モク', 'ボク']","['め', '-め', 'ま-']",4
+屋,"['roof', 'house', 'shop', 'dealer', 'seller']",['オク'],['や'],3
+並,"['row', 'and', 'besides', 'as well as', 'line up', 'rank with', 'rival', 'equal']","['ヘイ', 'ホウ']","['な.み', 'なみ', 'なら.べる', 'なら.ぶ', 'なら.びに']",2
+広,"['wide', 'broad', 'spacious']",['コウ'],"['ひろ.い', 'ひろ.まる', 'ひろ.める', 'ひろ.がる', 'ひろ.げる']",3
+陶,"['pottery', 'porcelain']",['トウ'],['すえ'],1
+外,['outside'],"['ガイ', 'ゲ']","['そと', 'ほか', 'はず.す', 'はず.れる', 'と-']",4
+習,['learn'],"['シュウ', 'ジュ']","['なら.う', 'なら.い']",3
+垣,"['hedge', 'fence', 'wall']",['エン'],['かき'],1
+趣,"['purport', 'gist', 'elegance', 'interest', 'proceed to', 'tend', 'become']",['シュ'],"['おもむき', 'おもむ.く']",1
+深,"['deep', 'heighten', 'intensify', 'strengthen']",['シン'],"['ふか.い', '-ぶか.い', 'ふか.まる', 'ふか.める', 'み-']",2
+野,"['plains', 'field', 'rustic', 'civilian life']","['ヤ', 'ショ']","['の', 'の-']",3
+紐,"['string', 'cord', 'braid', 'lace', 'tape', 'strap', 'ribbon']","['チュウ', 'ジュウ']",['ひも'],
+解,"['unravel', 'notes', 'key', 'explanation', 'understanding', 'untie', 'undo', 'solve', 'answer', 'cancel', 'absolve', 'explain', 'minute']","['カイ', 'ゲ']","['と.く', 'と.かす', 'と.ける', 'ほど.く', 'ほど.ける', 'わか.る', 'さと.る']",2
+宗,"['religion', 'sect', 'denomination', 'main point', 'origin', 'essence']","['シュウ', 'ソウ']",['むね'],1
+民,"['people', 'nation', 'subjects']",['ミン'],['たみ'],3
+俗,"['vulgar', 'customs', 'manners', 'worldliness', 'mundane things']",['ゾク'],[],1
+数,"['number', 'strength', 'fate', 'law', 'figures']","['スウ', 'ス', 'サク', 'ソク', 'シュ']","['かず', 'かぞ.える', 'しばしば', 'せ.める', 'わずらわ.しい']",2
+芸,"['technique', 'art', 'craft', 'performance', 'acting', 'trick', 'stunt']","['ゲイ', 'ウン']","['う.える', 'のり', 'わざ']",2
+術,"['art', 'technique', 'skill', 'means', 'trick', 'resources', 'magic']",['ジュツ'],['すべ'],2
+体,"['body', 'substance', 'object', 'reality', 'counter for images']","['タイ', 'テイ']","['からだ', 'かたち']",3
+類,"['sort', 'kind', 'variety', 'class', 'genus']",['ルイ'],['たぐ.い'],2
+詰,"['packed', 'close', 'pressed', 'reprove', 'rebuke', 'blame']","['キツ', 'キチ']","['つ.める', 'つ.め', '-づ.め', 'つ.まる', 'つ.む']",2
+底,"['bottom', 'sole', 'depth', 'bottom price', 'base', 'kind', 'sort']",['テイ'],['そこ'],2
+厚,"['thick', 'heavy', 'rich', 'kind', 'cordial', 'brazen', 'shameless']",['コウ'],"['あつ.い', 'あか']",2
+連,"['take along', 'lead', 'join', 'connect', 'party', 'gang', 'clique']",['レン'],"['つら.なる', 'つら.ねる', 'つ.れる', '-づ.れ']",2
+百,['hundred'],"['ヒャク', 'ビャク']",['もも'],4
+科,"['department', 'course', 'section']",['カ'],[],2
+典,"['code', 'ceremony', 'law', 'rule']","['テン', 'デン']",[],1
+欠,"['lack', 'gap', 'fail', 'yawning radical (no. 76)']","['ケツ', 'ケン']","['か.ける', 'か.く']",2
+揃,"['be complete', 'uniform', 'all present']",['セン'],"['そろ.える', 'そろ.う', 'そろ.い', 'き.る']",
+全,"['whole', 'entire', 'all', 'complete', 'fulfill']",['ゼン'],"['まった.く', 'すべ.て']",2
+簡,"['simplicity', 'brevity']","['カン', 'ケン']","['えら.ぶ', 'ふだ']",2
+表,"['surface', 'table', 'chart', 'diagram']",['ヒョウ'],"['おもて', '-おもて', 'あらわ.す', 'あらわ.れる', 'あら.わす']",2
+高,"['tall', 'high', 'expensive']",['コウ'],"['たか.い', 'たか', '-だか', 'たか.まる', 'たか.める']",4
+専,"['specialty', 'exclusive', 'mainly', 'solely']",['セン'],['もっぱ.ら'],2
+門,"['gate', 'counter for cannons']",['モン'],"['かど', 'と']",3
+用,"['utilize', 'business', 'service', 'use', 'employ']",['ヨウ'],['もち.いる'],3
+雑,['miscellaneous'],"['ザツ', 'ゾウ']","['まじ.える', 'まじ.る']",2
+回,"['-times', 'round', 'game', 'revolve', 'counter for occurrences']","['カイ', 'エ']","['まわ.る', '-まわ.る', '-まわ.り', 'まわ.す', '-まわ.す', 'まわ.し-', '-まわ.し', 'もとお.る', 'か.える']",3
+説,"['opinion', 'theory', 'explanation', 'rumor']","['セツ', 'ゼイ']",['と.く'],3
+売,['sell'],['バイ'],"['う.る', 'う.れる']",3
+子,"['child', 'sign of the rat', '11PM-1AM', 'first sign of Chinese zodiac']","['シ', 'ス', 'ツ']","['こ', '-こ', 'ね']",4
+供,"['submit', 'offer', 'present', 'serve (meal)', 'accompany']","['キョウ', 'ク', 'クウ', 'グ']","['そな.える', 'とも', '-ども']",2
+向,"['yonder', 'facing', 'beyond', 'confront', 'defy', 'tend toward', 'approach']",['コウ'],"['む.く', 'む.い', '-む.き', 'む.ける', '-む.け', 'む.かう', 'む.かい', 'む.こう', 'む.こう-', 'むこ', 'むか.い']",2
+絵,"['picture', 'drawing', 'painting', 'sketch']","['カイ', 'エ']",[],2
+誇,"['boast', 'be proud', 'pride', 'triumphantly']",['コ'],['ほこ.る'],1
+漫,"['cartoon', 'involuntarily', 'unrestrained', 'in spite of oneself', 'corrupt']",['マン'],"['みだり.に', 'そぞ.ろ']",1
+画,"['brush-stroke', 'picture']","['ガ', 'カク', 'エ', 'カイ']","['えが.く', 'かく.する', 'かぎ.る', 'はかりごと', 'はか.る']",3
+同,"['same', 'agree', 'equal']",['ドウ'],['おな.じ'],3
+開,"['open', 'unfold', 'unseal']",['カイ'],"['ひら.く', 'ひら.き', '-びら.き', 'ひら.ける', 'あ.く', 'あ.ける']",3
+美,"['beauty', 'beautiful']","['ビ', 'ミ']",['うつく.しい'],2
+酒,"['sake', 'alcohol']",['シュ'],"['さけ', 'さか-']",2
+独,"['single', 'alone', 'spontaneously', 'Germany']","['ドク', 'トク']",['ひと.り'],2
+特,['special'],['トク'],[],3
+少,"['few', 'little']",['ショウ'],"['すく.ない', 'すこ.し']",4
+黴,"['mold', 'mildew']","['バイ', 'ビ', 'マイ', 'ミ']","['かび', 'かび.る', 'か.びる']",
+臭,"['stinking', 'ill-smelling', 'suspicious looking', 'odor', 'savor', 'fragrance', 'be fragrant', 'stink', 'glow', 'be bright']",['シュウ'],"['くさ.い', '-くさ.い', 'にお.う', 'にお.い']",1
+埃,['dust'],['アイ'],"['ほこり', 'ちり']",
+年,"['year', 'counter for years']",['ネン'],['とし'],4
+経,"['sutra', 'longitude', 'pass thru', 'expire', 'warp']","['ケイ', 'キョウ', 'キン']","['へ.る', 'た.つ', 'たていと', 'はか.る', 'のり']",2
+頂,"['place on the head', 'receive', 'top of head', 'top', 'summit', 'peak']",['チョウ'],"['いただ.く', 'いただき']",2
+迎,"['welcome', 'meet', 'greet']",['ゲイ'],['むか.える'],2
+身,"['somebody', 'person', ""one's station in life""]",['シン'],['み'],2
+悶,"['be in agony', 'worry']",['モン'],"['もだ.える', 'もだえ.る']",
+考,"['consider', 'think over']",['コウ'],"['かんが.える', 'かんが.え']",3
+楽,"['music', 'comfort', 'ease']","['ガク', 'ラク', 'ゴウ']","['たの.しい', 'たの.しむ', 'この.む']",3
+傷,"['wound', 'hurt', 'injure', 'impair', 'pain', 'injury', 'cut', 'gash', 'scar', 'weak point']",['ショウ'],"['きず', 'いた.む', 'いた.める']",1
+光,"['ray', 'light']",['コウ'],"['ひか.る', 'ひかり']",3
+当,"['hit', 'right', 'appropriate', 'himself']",['トウ'],"['あ.たる', 'あ.たり', 'あ.てる', 'あ.て', 'まさ.に', 'まさ.にべし']",2
+良,"['good', 'pleasing', 'skilled']",['リョウ'],"['よ.い', '-よ.い', 'い.い', '-い.い']",2
+限,"['limit', 'restrict', 'to best of ability']",['ゲン'],"['かぎ.る', 'かぎ.り', '-かぎ.り']",2
+費,"['expense', 'cost', 'spend', 'consume', 'waste']",['ヒ'],"['つい.やす', 'つい.える']",2
+肌,"['texture', 'skin', 'body', 'grain']",['キ'],['はだ'],2
+青,"['blue', 'green']","['セイ', 'ショウ']","['あお', 'あお-', 'あお.い']",3
+白,['white'],"['ハク', 'ビャク']","['しろ', 'しら-', 'しろ.い']",4
+味,"['flavor', 'taste']",['ミ'],"['あじ', 'あじ.わう']",3
+悪,"['bad', 'vice', 'rascal', 'false', 'evil', 'wrong']","['アク', 'オ']","['わる.い', 'わる-', 'あ.し', 'にく.い', '-にく.い', 'ああ', 'いずくに', 'いずくんぞ', 'にく.む']",3
+運,"['carry', 'luck', 'destiny', 'fate', 'lot', 'transport', 'progress', 'advance']",['ウン'],['はこ.ぶ'],3
+動,"['move', 'motion', 'change', 'confusion', 'shift', 'shake']",['ドウ'],"['うご.く', 'うご.かす']",3
+健,"['healthy', 'health', 'strength', 'persistence']",['ケン'],['すこ.やか'],2
+康,"['ease', 'peace']",['コウ'],[],2
+食,"['eat', 'food']","['ショク', 'ジキ']","['く.う', 'く.らう', 'た.べる', 'は.む']",4
+叱,"['scold', 'reprove']","['シツ', 'シチ']",['しか.る'],
+手,['hand'],"['シュ', 'ズ']","['て', 'て-', '-て', 'た-']",4
+放,"['set free', 'release', 'fire', 'shoot', 'emit', 'banish', 'liberate']",['ホウ'],"['はな.す', '-っぱな.し', 'はな.つ', 'はな.れる', 'こ.く', 'ほう.る']",2
+畳,"['tatami mat', 'counter for tatami mats', 'fold', 'shut up', 'do away with']","['ジョウ', 'チョウ']","['たた.む', 'たたみ', 'かさ.なる']",2
+往,"['journey', 'travel', 'chase away', 'let go', 'going', 'before', 'formerly']",['オウ'],"['い.く', 'いにしえ', 'さき.に', 'ゆ.く']",1
+正,"['correct', 'justice', 'righteous', '10**40']","['セイ', 'ショウ']","['ただ.しい', 'ただ.す', 'まさ', 'まさ.に']",3
+確,"['assurance', 'firm', 'tight', 'hard', 'solid', 'confirm', 'clear', 'evident']","['カク', 'コウ']","['たし.か', 'たし.かめる']",2
+実,"['reality', 'truth']","['ジツ', 'シツ']","['み', 'みの.る', 'まこと', 'みの', 'みち.る']",2
+震,"['quake', 'shake', 'tremble', 'quiver', 'shiver']",['シン'],"['ふる.う', 'ふる.える']",2
+希,"['hope', 'beg', 'request', 'pray', 'beseech', 'Greece', 'dilute (acid)', 'rare', 'few', 'phenomenal']","['キ', 'ケ']",['まれ'],2
+直,"['straightaway', 'honesty', 'frankness', 'fix', 'repair']","['チョク', 'ジキ', 'ジカ']","['ただ.ちに', 'なお.す', '-なお.す', 'なお.る', 'なお.き', 'す.ぐ']",2
+資,"['assets', 'resources', 'capital', 'funds', 'data', 'be conducive to', 'contribute to']",['シ'],[],2
+格,"['status', 'rank', 'capacity', 'character', 'case (law, grammar)']","['カク', 'コウ', 'キャク', 'ゴウ']",[],2
+取,"['take', 'fetch', 'take up']",['シュ'],"['と.る', 'と.り', 'と.り-', 'とり', '-ど.り']",2
+決,"['decide', 'fix', 'agree upon', 'appoint']",['ケツ'],"['き.める', '-ぎ.め', 'き.まる', 'さ.く']",2
+次,"['next', 'order', 'sequence']","['ジ', 'シ']","['つ.ぐ', 'つぎ']",2
+中,"['in', 'inside', 'middle', 'mean', 'center']",['チュウ'],"['なか', 'うち', 'あた.る']",4
+他,"['other', 'another', 'the others']",['タ'],['ほか'],2
+圧,"['pressure', 'push', 'overwhelm', 'oppress', 'dominate']","['アツ', 'エン', 'オウ']","['お.す', 'へ.す', 'おさ.える', 'お.さえる']",2
+倒,"['overthrow', 'fall', 'collapse', 'drop', 'break down']",['トウ'],"['たお.れる', '-だお.れ', 'たお.す', 'さかさま', 'さかさ', 'さかしま']",2
+長,"['long', 'leader', 'superior', 'senior']",['チョウ'],"['なが.い', 'おさ']",4
+持,"['hold', 'have']",['ジ'],"['も.つ', '-も.ち', 'も.てる']",3
+伝,"['transmit', 'go along', 'walk along', 'follow', 'report', 'communicate', 'legend', 'tradition']","['デン', 'テン']","['つた.わる', 'つた.える', 'つた.う', 'つだ.う', '-づた.い', 'つて']",2
+達,"['accomplished', 'reach', 'arrive', 'attain']","['タツ', 'ダ']",['-たち'],2
+残,"['remainder', 'leftover', 'balance']","['ザン', 'サン']","['のこ.る', 'のこ.す', 'そこな.う', 'のこ.り']",2
+業,"['business', 'vocation', 'arts', 'performance']","['ギョウ', 'ゴウ']",['わざ'],3
+昔,"['once upon a time', 'antiquity', 'old times']","['セキ', 'シャク']",['むかし'],2
+振,"['shake', 'wave', 'wag', 'swing']",['シン'],"['ふ.る', 'ぶ.る', 'ふ.り', '-ぶ.り', 'ふ.るう']",1
+返,"['return', 'answer', 'fade', 'repay']",['ヘン'],"['かえ.す', '-かえ.す', 'かえ.る', '-かえ.る']",2
+対,"['vis-a-vis', 'opposite', 'even', 'equal', 'versus', 'anti-', 'compare']","['タイ', 'ツイ']","['あいて', 'こた.える', 'そろ.い', 'つれあ.い', 'なら.ぶ', 'むか.う']",2
+変,"['unusual', 'change', 'strange']",['ヘン'],"['か.わる', 'か.わり', 'か.える']",2
